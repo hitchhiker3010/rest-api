@@ -1,0 +1,8 @@
+name: flask_env
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - flask
+
+
